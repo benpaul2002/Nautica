@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  width:100%;
+  height:100%;
+}
+
+#HUD {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    z-index: 200;
+}
+
+#Game_Over {
+    position: absolute;
+    left: 750px;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    z-index: 200;
+    display:none;
+}
+
+#controls {
+    position: absolute;
+    left: 1500px;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    z-index: 200;
+}
+
+#game_title{
+    font-size: 200%;
+    color: black;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+#stats{
+    font-size: 150%;
+    margin-top: -20px;
+}
