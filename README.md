@@ -21,4 +21,4 @@ Collect treasures for a higher score!
 
 ## Trailer
 Watch the trailer for the game here - https://www.youtube.com/watch?v=pCUs90uUzjM
-This trailer was made using Blender and ThreeJS as a group project with @Aayush499 and @amal-sunny
+This trailer was made using Blender and ThreeJS as a group project with [@Aayush499](https://github.com/Aayush499) and [@amal-sunny](https://github.com/amal-sunny)
