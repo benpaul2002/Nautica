@@ -18,3 +18,7 @@ A 3D game made using WebGL and ThreeJS involving a ship travelling the ocean, co
 ## Objective
 Shoot down all the enemy ships until your health is depleted. 
 Collect treasures for a higher score!
+
+## Trailer
+Watch the trailer for the game here - https://www.youtube.com/watch?v=pCUs90uUzjM
+This trailer was made using Blender and ThreeJS as a group project with @Aayush499 and @amal-sunny
